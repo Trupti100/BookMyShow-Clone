@@ -18,6 +18,6 @@ let movies = [
         image: 'img/banner/banner6.webp'
     },
     {
-        image: 'img/banner/et00357595-wspgmtrnnr-portrait.jpg'
+        image: 'img/banner/1693805241270_lollapaloozadesktop.avif'
     }
 ]
